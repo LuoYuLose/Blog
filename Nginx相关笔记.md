@@ -2,6 +2,8 @@
 title: Nginx相关笔记
 date: 2023-05-08 08:02:36
 tags:
+categories:
+    - 教程
 ---
 
 # 长期更新

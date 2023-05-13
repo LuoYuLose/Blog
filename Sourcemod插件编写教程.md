@@ -2,6 +2,8 @@
 title: Sourcemod插件编写教程
 date: 2023-05-08 08:02:13
 tags:
+categories:
+    - 教程
 ---
 
 # 长期更新

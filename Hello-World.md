@@ -2,6 +2,8 @@
 title: Hello World
 date: 2023-05-03 00:50:04
 tags:
+categories:
+    - 杂项
 ---
 
 网站重启，博客转生
