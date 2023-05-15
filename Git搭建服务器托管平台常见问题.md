@@ -4,6 +4,7 @@ date: 2023-05-08 08:47:00
 tags:
 categories:
     - 教程
+summary: 提出一些解决Git搭建服务器托管平台的方案
 ---
 
 # 长期更新
