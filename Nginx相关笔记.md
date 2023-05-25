@@ -10,8 +10,6 @@ summary: 本篇用来记录使用nginx的各种思考感受，比如网站好好
 # 长期更新
 本博客旨在记录本人学习Nginx相关体会，请酌情参考
 
-<!--more-->
-
 ## Nginx控制是使用nginx还是systemctl？
 
 我个人倾向于使用sudo + nginx (+s stop/reload)来进行Nginx控制，主要原因为本人在使用systemctl时systemctl总会无端报错。
