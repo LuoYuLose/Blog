@@ -6,6 +6,8 @@ categories: 教程
 summary: 作为个人入门完全自定义Wayland的首次尝试，这篇博客记录下安装过程中踩过的坑
 ---
 
+- [测试](#1.-测试)
+
 ### 只是作为对自己尝试Wayland时各种踩坑的记录，实际上我对Wayland不如X.Org熟悉，因此给出的方案也不一定能100%解决问题
 
 Q: Wayland下的Electron应用配置  
@@ -54,3 +56,4 @@ Q: 我是否需要XWayland兼容？
 对于Electron兼容还是有点问题，但日用没问题，总之日常用用还是可以的  
 而且Wayland是真的漂亮，相比于X.Org下一群组件的相互配合，Wayland更加自然
 
+## 1. 测试
