@@ -9,9 +9,10 @@ summary: 说实话自己对Nvim包管理器也挺模糊的，更何况Vim还有�
 
 ## 长期更新，先写个目录结构
 
-- [Lazy.nvim](#Lazy.nvim)
-- [Packer.nvim](#Packer.nvim)
-- [Vundle](#Vundle)
+- [长期更新，先写个目录结构](#长期更新先写个目录结构)
+  - [Lazy.nvim](#lazynvim)
+  - [Packer.nvim](#packernvim)
+  - [Vundle](#vundle)
 
 ### Lazy.nvim
 

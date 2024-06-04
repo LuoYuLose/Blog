@@ -9,5 +9,6 @@ summary: 分享自己在Wayland下的锁屏用软件
 ### 本文用来记录Wayland下常用的锁屏软件（实际上用Gnome和Kde的用户完全不用有这方面的焦虑就是了）
 
 对于平铺式窗口（Hyprland Dwl Sway）
->1. Swaylock    
+ 
+>1. Swaylock
 >2. Waylock
