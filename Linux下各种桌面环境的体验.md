@@ -1,6 +1,7 @@
 ---
-title: 
+title: 吐槽一下Linux下的桌面环境体验，说不上好也说不上坏
 categories: 
+    - 杂谈
 summary: 系统分享Linux下常用的桌面环境（DE和WM），当然对于Linux老司机来讲有点废话了（
 ---
 

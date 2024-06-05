@@ -2,8 +2,8 @@
 title: Nvim插件——Coc介绍
 date: 2023-05-30 23:56:45
 categories: 
-    - [分享]
-    - [教程]
+    - 分享
+    - 教程
 summary: 打算做个Coc的分享和简单教程，后来打算一并把lsp一并介绍了
 ---
 
